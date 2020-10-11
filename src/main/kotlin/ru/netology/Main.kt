@@ -1,4 +1,4 @@
-package moneyTransfers
+package ru.netology
 
 import java.lang.NumberFormatException
 import kotlin.math.max
